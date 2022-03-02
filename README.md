@@ -1,2 +1,3 @@
-# docker
-Deno client for Docker 
+# Docker
+
+Deno client for Docker. It allows to control Docker through Unix socket.
